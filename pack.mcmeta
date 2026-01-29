@@ -1,0 +1,21 @@
+{
+	"pack": {
+		"pack_format": 15,
+		"supported_formats": {
+			"min_inclusive": 15,
+			"max_inclusive": 41
+		},
+		"description": "Golden Apples instead of Enchanted Golden Apples in the recipes for the Ambrosia Herb. Updates can be found at github.com/Da1lass/SculkSickness-AmbrosiaHerb"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"formats": {
+					"min_inclusive": 1,
+					"max_inclusive": 2147483647
+				},
+				"directory": "overlay_01"
+			}
+		]
+	}
+}

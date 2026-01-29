@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": false,
+  "pattern": [
+    "ggG",
+    "VV"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:glow_berries"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    },
+    "V": {
+      "item": "sculksickness:vile_herb"
+    }
+  },
+  "result": {
+    "item": "sculksickness:ambrosia_herb",
+    "count": 2
+  }
+}
