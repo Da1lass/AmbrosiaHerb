@@ -2,13 +2,15 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:glow_berries"
+      "item": "minecraft:glow_berries",
+      "count": 2
     },
     {
       "item": "minecraft:golden_apple"
     },
     {
-      "item": "sculksickness:vile_herb"
+      "item": "sculksickness:vile_herb",
+      "count": 2
     }
   ],
   "result": {
