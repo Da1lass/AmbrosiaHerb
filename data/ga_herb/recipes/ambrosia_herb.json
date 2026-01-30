@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "sculksickness:vile_herb"
+    }
+  ],
+  "result": {
+    "item": "sculksickness:ambrosia_herb",
+    "count": 2
+  }
+}
